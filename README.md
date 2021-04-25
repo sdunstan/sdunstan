@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdunstan
-- 👀 I’m interested in AI/ML, full stack, and mobile.
-- 🌱 I’m currently learning Ethereum, Solidity, etc.
+- 👀 I’m interested in AI/ML, IoT, full stack, and mobile.
+- 🌱 I’m currently learning Ethereum/Solidity, ROS, Flutter/Dart, K8S
 - 📫 How to reach me: steve_dunstan@yahoo.com
 
 <!---
